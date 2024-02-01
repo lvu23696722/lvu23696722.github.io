@@ -487,7 +487,8 @@ box-shadow: inset 0px 0px 20px rgba(0,0,0,0.1), inset 0px 0px 20px rgba(0,0,0,0.
 }
 
 .home-gallery .item-img img {
-    max-width: 100%;
+    max-width: 75%;
+    margin-left: 15%;
 }
 
 
